@@ -4,3 +4,6 @@ public class LoginFeature {
 	System.out.println("これはログイン<ブランチを作成した>機能です");
     }
 }
+
+
+
