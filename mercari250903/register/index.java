@@ -1,0 +1,1 @@
+register機能です
