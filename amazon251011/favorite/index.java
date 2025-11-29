@@ -1,0 +1,1 @@
+favoriteです
