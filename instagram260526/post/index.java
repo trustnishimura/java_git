@@ -1,0 +1,1 @@
+System.out.println("ポスト機能です");
